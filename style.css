@@ -18,7 +18,7 @@ section{
 .glass{
   padding: 30px;
   width: 30%;
-  height: 70vh;
+  /* height: 70vh; */
   border-radius: 20px;
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(10px);
@@ -105,7 +105,6 @@ button:hover{
   .glass{
     padding: 30px;
     width: 100%;
-    height: 100vh;
     border-radius: 20px;
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(10px);
